@@ -19,4 +19,6 @@ Please follow along as the instructor creates database access methods for a mult
 
 ## Common Architecture
 
-[UI] -- [Business Logic] -- [Data Access] -- [DBMS]
+[ UI <-- Route Handlers ] -- [ Business Logic ] -- [ Data Access ] -- [ DBMS ]
+
+A common pattern is MVC ( Model - View - Controller )
